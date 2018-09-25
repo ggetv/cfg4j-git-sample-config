@@ -1,5 +1,5 @@
 databasePool:
-  url: jdbc:mysql://localhost:3306/devdb
+  url: jdbc:mysql://localhost:3306/devdb2
   maxPoolSize: 60
   connectionTimeoutMs: 1000
   idleTimeoutMs: 120000
